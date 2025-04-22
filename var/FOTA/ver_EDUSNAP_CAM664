@@ -1,0 +1,14 @@
+{
+    "PRODUCT_NAME":"EDUSNAP_CAM664",
+    "MAIN_VER":{
+        "VER":  "1.0.15",
+        "SIZE": 17259834,
+        "MD5":  "e794d0b474d9fc555ed7e203f2171593",
+        "URL":  "/FIRMWARE/EDUSNAP_664AF_V1/appmain/fac_firmwares_EDU_1126_664AF_V1_1.0.15.pkg",
+        "UTC":  "1745309900",
+    },
+    "NEW_FEATURE":[
+        "1.fix some bugs",
+        "2.add web console for WLAN/LAN/RESET"]
+}
+

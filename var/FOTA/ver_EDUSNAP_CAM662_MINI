@@ -1,0 +1,14 @@
+{
+    "PRODUCT_NAME":"EDUSNAP_CAM662_MINI",
+    "MAIN_VER":{
+        "VER":  "2.0.21",
+        "SIZE": 16952192,
+        "MD5":  "c451cf1b3c317b19f8b818e721e8fcb8",
+        "URL":  "/FIRMWARE/EDUSNAP_662_V1/appmain/fac_firmwares_662m_2.0.21.pkg",
+        "UTC":  "1745309900",
+    },
+    "NEW_FEATURE":[
+        "1.fix some bugs",
+        "2.add web console for WLAN/LAN/RESET"]
+}
+
